@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Projeto_com_Fragmentos</string>
+    <string name="tab_text_1">Contactos</string>
+    <string name="tab_text_2">Acerca</string>
+    <string name="nome">Nome</string>
+    <string name="ntm">Número de Telemóvel</string>
+    <string name="ntf">Número de Telefone</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <string name="altura">Altura</string>
+    <string name="profissao">Profissão</string>
+    <string name="genero">Género</string>
+    <string name="validacao">Tem de inserir pelo menos um nome e número</string>
+    <string name="ok">OK</string>
+    <string name="edit">Editar</string>
+    <string name="remove">Remover</string>
+    <string name="removidosucesso">Removido com sucesso!</string>
+    <string name="editadosucesso">Editado com sucesso!</string>
+    <string name="sremove">Sim</string>
+    <string name="nremove">Não</string>
+    <string name="cremove">Tem a certeza?</string>
+    <string name="aremove">Sucesso</string>
+    <string name="taremove">Remover</string>
+    <string name="ver">Ver</string>
+    <string name="verContacto">Ver Contacto</string>
+    <string name="addContacto">Adicionar Contacto</string>
+    <string name="nomePrograma">Contactos by fP</string>
+    <string name="CO">(*) Are mandatory fields!</string>
+
+
+</resources>

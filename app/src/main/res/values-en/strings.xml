@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projeto_com_Fragmentos</string>
+    <string name="altura">Height</string>
+    <string name="aremove">Success</string>
+    <string name="cremove">R U sure?</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="genero">Gender</string>
+    <string name="idade">Age</string>
+    <string name="nome">Nome</string>
+    <string name="nremove">No</string>
+    <string name="ntf">Telphone</string>
+    <string name="ntm">Mobile Phone</string>
+    <string name="ok">OK</string>
+    <string name="profissao">Profission</string>
+    <string name="remove">Remove</string>
+    <string name="removidosucesso">Success Remove</string>
+    <string name="sremove">Yes</string>
+    <string name="tab_text_1">Contacts</string>
+    <string name="tab_text_2">About</string>
+    <string name="taremove">Remove</string>
+    <string name="validacao">You have to put a name and a phone number</string>
+    <string name="ver">View</string>
+    <string name="verContacto">View Contact</string>
+    <string name="addContacto">Add Contact</string>
+    <string name="nomePrograma">Contacts by fP</string>
+    <string name="editadosucesso">Edited with success</string>
+    <string name="CO">(*) Are mandatory fields!</string>
+</resources>
