@@ -181,7 +181,7 @@ public class PlaceholderFragment extends Fragment implements SensorEventListener
         if(!c.isEmpty()) {
             c.clear();
         }
-        String url = "http://paroquiaprado.pt/pm21618/public/api/contatos";
+        String url = "http://172.16.184.229/PM/contatos/public/api/contatos";
 
 
         Toast.makeText(getActivity(), "Teste", Toast.LENGTH_SHORT).show();
@@ -254,7 +254,7 @@ public class PlaceholderFragment extends Fragment implements SensorEventListener
                 //Remover user
                 Toast.makeText(getActivity(), id_contato+"", Toast.LENGTH_SHORT).show();
                 JsonObjectRequest jsObjRequest = new JsonObjectRequest
-                        (Request.Method.DELETE, "http://paroquiaprado.pt/pm21618/public/api/contatos/"+id_contato, null, new Response.Listener<JSONObject>() {
+                        (Request.Method.DELETE, "http://172.16.184.229/PM/contatos/public/api/contatos"+id_contato, null, new Response.Listener<JSONObject>() {
                             @Override
                             public void onResponse(JSONObject response) {
                                 Toast.makeText(getActivity(), getResources().getString(R.string.aremove) , Toast.LENGTH_SHORT).show();

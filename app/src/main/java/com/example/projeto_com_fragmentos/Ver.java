@@ -51,7 +51,7 @@ public class Ver extends AppCompatActivity implements Serializable {
         //Preparar a base de dados
         Toast.makeText(this,id+"", Toast.LENGTH_SHORT).show();
 
-        String url = "http://paroquiaprado.pt/pm21618/public/api/contatos/" + id;
+        String url = "http://172.16.184.229/PM/contatos/public/api/contatos/" + id;
 
 
         // Formulate the request and handle the response.
